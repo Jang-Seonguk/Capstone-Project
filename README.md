@@ -50,7 +50,7 @@ C:\Users\..\Desktop\summary_model> python app.py
 ![image](https://user-images.githubusercontent.com/60394246/154044732-307f75fc-b632-4cd4-a886-d5790f8d0ad3.png)
 
 
-
+<br/><br/><br/>
 
 ## License / 라이센스
 

@@ -23,7 +23,7 @@ streamlit==0.72.0
 ## Running
 
 
-### Anaconda Promt 환경에서 실행합니다
+### <img src="https://img.shields.io/badge/Anaconda-F48220?style=flat-square&logo=Anaconda&logoColor=White"/> Promt 환경에서 실행합니다
 
 ```
 cd C:\Users\..\Desktop\summary_model
@@ -36,8 +36,8 @@ C:\Users\..\Desktop\summary_model> python app.py
 ![image](https://user-images.githubusercontent.com/60394246/154043322-2683ba2c-faea-4bdb-9fdc-388ba5c07aa1.png)
 
 
-메세지 박스안에 요약하고자 하는 텍스트를 입력하면 된다.  
-요약 모델은 요약 결과와 키워드를 제공한다.
+메세지 박스안에 요약하고자 하는 텍스트를 입력하면 됩니다.  
+요약 모델은 요약 결과와 키워드를 제공합니다.
 <br/><br/><br/><br/>
 
 **원문**

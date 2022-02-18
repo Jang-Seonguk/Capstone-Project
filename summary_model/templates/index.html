@@ -1,0 +1,83 @@
+<!doctype html>
+
+<html>
+  <head>
+    <style>
+      .button {
+        background-color: #4CAF50;
+        border: none;
+        color: white;
+        padding: 5px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 20px;
+        margin: 8px 2px;
+        cursor: pointer;
+        
+      }
+    </style>
+  </head>
+
+  <body style="display: block; width:900px; margin:0 auto; position:relative;">
+  
+    <form method="POST" action = '/'>
+      <div style="padding:20px 20px 0 0;">
+        <label for="char1" style="font-size:40px; font-weight:bold;"> 문서 요약 </label>
+      </div>
+      <div style="padding:20px 0 0 0;">
+        <textarea name="char1" cols="100" rows="10"></textarea>
+      </div>
+      <div>
+        <button type="submit" class = "button">요약</button>
+      </div>
+
+    </form>
+    <!--
+    <form method = "POST" action = '/'>
+      
+      <div style="padding:20px 20px 0 0;">
+        <label for="char1" style="font-size:40px; font-weight:bold;"> 문서 요약 </label>
+      </div>
+      
+      <div style="padding:20px 20px 0 0;">
+        <button type="submit" class = "button">요약</button>
+      </div>
+    </form>
+    -->
+    <div style="padding:55px 20px 0 0;">
+      <label style="font-size:25px; font-weight:bold;"> 원문 </label>
+    </div>
+
+    <div >
+      <p>
+        {{original}}
+      </p>
+    </div>
+
+    <div style="padding:50px 20px 0 0;">
+      <label style="font-size:25px; font-weight:bold;"> 요약 결과 </label>
+    </div>
+
+    <div>
+      <p>
+        {{summary}}
+      </p>
+    </div>
+
+    <div style="padding:50px 20px 0 0;">
+      <label style="font-size:25px; font-weight:bold;"> 키워드 </label>
+    </div>
+
+    <div>
+      <p>
+        {{keyword}}
+      </p>
+    </div>
+
+
+
+
+  </body>
+
+</html>

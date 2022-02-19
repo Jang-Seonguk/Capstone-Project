@@ -2,7 +2,7 @@
 
 **[자동회의록 웹 서비스에 사용될 요약 모델]**  
 
-자동회의록 웹 서비스는 사용자가 회의를 녹음하기만 하면 자동으로 회의를 기록해주고, 요약해주는 서비스이다.  
+자동회의록 웹 서비스는 사용자가 회의를 녹음하기만 하면 자동으로 회의를 기록해주고, 요약해주는 서비스입니다.  
 KoBART와 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white">을 이용하여 요약 모델을 구축하고, 약 모델을 이용하여 회의 내용을 요약하고 키워드를 추출합니다.
 <br/><br/>
 

@@ -1,8 +1,8 @@
 # Project Title 
 
-**[자동회의록 웹 서비스에 사용될 요약 모델]**  
+**[자동 회의록 웹 서비스에 사용될 요약 모델]**  
 
-자동회의록 웹 서비스는 사용자가 회의를 녹음하기만 하면 자동으로 회의를 기록해주고, 요약해주는 서비스입니다.  
+자동 회의록 웹 서비스는 사용자가 회의를 녹음하기만 하면 자동으로 회의를 기록해 주고, 요약해 주는 서비스입니다.  
 KoBART와 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white">을 이용하여 요약 모델을 구축하고, 약 모델을 이용하여 회의 내용을 요약하고 키워드를 추출합니다.
 <br/><br/>
 
@@ -112,7 +112,7 @@ keywords, sents = summarize_with_sentences(
   verbose=False
 )
 ```
-키워드 추출은 비지도학습 기반으로 한국어의 단어를 추출하는 <a href="https://github.com/lovit/KR-WordRank" target="_blank">KR-WordRank</a> 라이브러리를 이용하였습니다.  
+키워드 추출은 비지도 학습 기반으로 한국어의 단어를 추출하는 <a href="https://github.com/lovit/KR-WordRank" target="_blank">KR-WordRank</a> 라이브러리를 이용하였습니다.  
 <br/>
 
 ***stopwords***를 통해 키워드에 추가하지 않을 단어를 설정할 수 있습니다.   
@@ -184,7 +184,7 @@ C:\Users\..\Desktop\summary_model> python app.py
 ## License / 라이센스
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jang-Seonguk/Capstone-Project/blob/56dc3090c50bd8899ccc59d2ab2cd36506449d51/LICENSE) file for details   
-이 프로젝트는 MIT 라이센스로 라이센스가 부여되어 있습니다. 자세한 내용은 LICENSE 파일을 참고하세요.
+이 프로젝트는 MIT 라이센스가 부여되어 있습니다. 자세한 내용은 LICENSE 파일을 참고하세요.
 
 
 

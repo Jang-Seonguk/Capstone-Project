@@ -123,7 +123,7 @@ keywords, sents = summarize_with_sentences(
 ***num_keywords***는 키워드로 추출되는 단어의 개수를 정할 수 있습니다.
 
 
-***num_keysents***는 키워드로 추출되는 문장의 개수를 정할 수 있다. 본 프로젝트에서는 사용하지 않았습니다.
+***num_keysents***는 키워드로 추출되는 문장의 개수를 정할 수 있습니다. 본 프로젝트에서는 사용하지 않았습니다.
 
 
 

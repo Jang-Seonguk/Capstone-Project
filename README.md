@@ -176,7 +176,7 @@ C:\Users\..\Desktop\summary_model> python app.py
 ![image](https://user-images.githubusercontent.com/60394246/154043035-d572f7d9-789e-4d6d-a4fc-5cc4ee047679.png)
 <br/><br/><br/><br/>
 
-**실행 결과**<br/>
+### 실행 결과<br/>
 
 ![image](https://user-images.githubusercontent.com/60394246/154044732-307f75fc-b632-4cd4-a886-d5790f8d0ad3.png)
 

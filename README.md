@@ -25,9 +25,9 @@ KoBART Github에 들어가면
 위와 같이 나뉘어 있고, 본 프로젝트에서는 KoBART Summarization을 사용하였습니다.  
 Summarization은 seujung님이 구축하신 모델을 이용하였습니다.  
 <br/><br/>
-
+https://github.com/seujung/KoBART-summarization
 <p>
-  <a href="https://jang-seonguk.github.io/" target="_blank"><img src="https://img.shields.io/badge/Seujung-%23121011?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/seujung/KoBART-summarization" target="_blank"><img src="https://img.shields.io/badge/Seujung-%23121011?style=flat-square&logo=github&logoColor=white"/></a>
 (Seujung님의 Github 주소)
 </p>
 
